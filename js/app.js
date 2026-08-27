@@ -36,7 +36,7 @@ function vehicleCard(vehicle) {
         </div>
 
         <button class="btn btn-outline vehicle-action" data-vehicle-id="${vehicle.id}">
-          Falar sobre este carro <span>↗</span>
+          Falar sobre este carro <span></span>
         </button>
       </div>
     </article>
